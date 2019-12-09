@@ -14,6 +14,7 @@ public class Funcionario {
      private String login;
      private String senha;
 
+     
     public int getCodigo() {
         return codigo;
     }
