@@ -294,7 +294,10 @@ public class CadastrarCliente extends javax.swing.JFrame {
                     || fone.equals("") || cpf.equals("") || rg.equals("") ) {
                   
                 
+<<<<<<< HEAD
                 
+=======
+>>>>>>> ca6687dfacd08fc6511e8b75980b08c2b3023128
             }  
                
     }//GEN-LAST:event_btSalvarActionPerformed
